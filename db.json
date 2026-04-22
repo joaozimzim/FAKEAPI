@@ -1,0 +1,89 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome":"Mtec-PI Desenvolvimento de Sistemas",
+            "disciplinas":["WEB III","PAM II","BD"],
+            "carga-horaria": 1200
+
+        }
+        {
+            "id":2,
+            "nome":"Mtec-PI Desenvolvimento de Sistemas",
+            "disciplinas":["WEB III","PAM II","BD"],
+            "carga-horaria": 1200
+            
+        }
+    ]
+}
+{
+    "cursos": [
+        {
+            {
+                "id": 1,
+                "nome": "Mtec-PI Desenvolvimento de Sistemas",
+                "disciplinas": [
+                    "Lógica de Programação",
+                    "Algoritmos",
+                    "Programação Web",
+                    "Banco de Dados",
+                    "Análise e Projeto de Sistemas",
+                    "Engenharia de Software",
+                    "Matemática",
+                    "Português",
+                    "Inglês",
+                    "Física",
+                    "Química"
+                ],
+                "carga-horaria": 3000
+            },
+            {
+                "id": 2,
+                "nome": "Mtec-N Informática",
+                "disciplinas": [
+                    "Arquitetura de Computadores",
+                    "Redes de Computadores",
+                    "Sistemas Operacionais",
+                    "Lógica de Programação",
+                    "Banco de Dados",
+                    "Manutenção de Computadores",
+                    "Português",
+                    "Matemática",
+                    "Inglês"
+                ],
+                "carga-horaria": 2400
+            },
+            {
+                "id": 3,
+                "nome": "Mtec-N Informática para Internet",
+                "disciplinas": [
+                    "HTML e CSS",
+                    "JavaScript",
+                    "Desenvolvimento Web",
+                    "Banco de Dados",
+                    "UX/UI",
+                    "Programação",
+                    "Redes",
+                    "Português",
+                    "Matemática",
+                    "Inglês"
+                ],
+                "carga-horaria": 2400
+            },
+            {
+                "id": 4,
+                "nome": "Técnico em Desenvolvimento de Sistemas",
+                "disciplinas": [
+                    "Lógica de Programação",
+                    "Programação Orientada a Objetos",
+                    "Banco de Dados",
+                    "Desenvolvimento Web",
+                    "Engenharia de Software",
+                    "Testes de Software"
+                ],
+                "carga-horaria": 1200
+            }       
+        }
+    ]
+}
+ 
